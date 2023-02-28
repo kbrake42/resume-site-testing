@@ -28,9 +28,6 @@ namespace resume_site_testing
             driver.Navigate().GoToUrl("http://www.resume.kenbrake.com");
             Thread.Sleep(30000);
 
-
-
-
         }
 
         [TearDown]
